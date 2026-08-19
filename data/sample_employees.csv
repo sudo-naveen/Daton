@@ -1,0 +1,21 @@
+employee_id,name,department,designation,salary,hire_date,performance_rating
+101,John Smith,Engineering,Senior Developer,95000,2020-03-15,4.5
+102,Sarah Johnson,Marketing,Marketing Manager,82000,2019-07-20,4.2
+103,Mike Davis,Engineering,Junior Developer,65000,2023-01-10,3.8
+104,Emily Brown,HR,HR Specialist,72000,2021-05-05,4.0
+105,James Wilson,Sales,Sales Executive,68000,2022-09-15,3.9
+106,Jessica Lee,Engineering,Tech Lead,115000,2018-11-20,4.7
+107,David Martinez,Marketing,Content Strategist,75000,2021-03-25,4.1
+108,Amanda Garcia,Finance,Financial Analyst,88000,2020-06-30,4.3
+109,Chris Anderson,Sales,Sales Manager,92000,2019-02-14,4.4
+110,Laura Taylor,Engineering,Software Engineer,85000,2022-04-18,4.0
+111,Robert Hernandez,HR,Recruiter,62000,2023-06-01,3.7
+112,Megan White,Finance,Accountant,78000,2021-09-10,4.1
+113,Daniel Thompson,Sales,BDR,58000,2023-08-20,3.6
+114,Rachel Kim,Engineering,DevOps Engineer,98000,2020-12-05,4.5
+115,Kevin Robinson,Marketing,SEO Specialist,71000,2022-01-30,3.9
+116,Ashley Clark,Finance,Finance Manager,105000,2018-08-15,4.6
+117,Jason Lewis,Sales,Account Executive,76000,2021-11-20,4.0
+118,Stephanie Walker,Engineering,QA Engineer,80000,2022-07-10,4.2
+119,Brandon Hall,HR,HR Manager,95000,2019-04-05,4.4
+120,Nicole Allen,Marketing,PR Manager,89000,2020-02-28,4.3
